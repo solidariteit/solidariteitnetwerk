@@ -1,0 +1,544 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"backgr",
+				"background-image\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"text-",
+				"text-transform\tproperty"
+			],
+			[
+				"text-r",
+				"text-transform\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"the",
+				"theResult"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"backgroun",
+				"background-image\tproperty"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"padding-",
+				"padding-top\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/solidariteitNetwerk/solidariteitNetwerk"
+	],
+	"file_history":
+	[
+		"/C/Users/pw/AppData/Local/Temp/scp31637/var/www/solidx.co.za/public_html/index.php",
+		"/C/cygwin64/home/pw/.ssh/known_hosts",
+		"/C/Users/pw/AppData/Local/Temp/scp43746/var/www/html/wp-content/themes/solidariteit-jeug/functions.php",
+		"/C/Users/pw/OneDrive - Solidariteit/Desktop/test.php",
+		"/C/Users/pw/AppData/Local/Temp/scp20206/var/www/html/wp-content/themes/sleer2020/page-mysleer.php",
+		"/C/Users/pw/AppData/Local/Temp/scp45448/public_html/wp-content/themes/twentytwentyone/style.css",
+		"/C/Users/pw/AppData/Local/Temp/scp58755/public_html/wp-content/plugins/gravityformspayfast/payfast.log",
+		"/C/www.solidariteitnetwerk.dev.cc/.htaccess",
+		"/C/Users/pw/AppData/Local/Temp/scp45451/var/www/html/wp-content/themes/solidariteit-jeug/functions.php",
+		"/C/Users/pw/AppData/Local/Temp/scp48879/etc/ssl/gd_bundle-g2-g1.crt",
+		"/C/Users/pw/AppData/Local/Temp/scp37740/var/www/html/wp-content/themes/wereld2018/functions.php",
+		"/C/Users/pw/AppData/Local/Temp/scp11786/var/www/html/wp-config.php",
+		"/C/Users/pw/AppData/Local/Temp/scp37302/var/www/html/webpack.mix.js",
+		"/C/Users/pw/AppData/Local/Temp/scp41268/var/www/html/resources/views/website/contact.blade.php",
+		"/C/Users/pw/AppData/Local/Temp/scp29962/var/www/solidx.co.za/public_html/index.html",
+		"/C/Users/pw/AppData/Local/Temp/scp45605/var/www/html/wp-content/themes/sleer2020/template-parts/content.php",
+		"/C/Users/pw/AppData/Local/Temp/scp59220/var/www/html/wp-content/themes/sleer2020/single.php",
+		"/C/Users/pw/AppData/Local/Temp/scp11055/var/www/html/wp-content/themes/sleer2020/functions.php",
+		"/C/Users/pw/AppData/Local/Temp/scp57627/var/www/html/wp-content/themes/sleer2020/single.php.old",
+		"/C/Users/pw/AppData/Local/Temp/scp59070/var/www/html/wp-content/themes/sleer2020/page-eleer.php",
+		"/C/Users/pw/AppData/Local/Temp/scp21158/public_html/wp-content/themes/gideons2019/woocommerce/archive-product.php",
+		"/C/Users/pw/AppData/Local/Temp/scp32495/public_html/wp-content/themes/gideons2019/page-faqs.php",
+		"/C/Users/pw/AppData/Local/Temp/scp56073/public_html/wp-content/themes/gideons2019/page-faqs.php",
+		"/C/Users/pw/AppData/Local/Temp/scp39739/public_html/wp-content/themes/gideons2019/page-faqs-en.php",
+		"/C/Users/pw/AppData/Local/Temp/scp39174/public_html/wp-content/themes/gideons2019/page-faqs.php",
+		"/C/Users/pw/AppData/Local/Temp/scp24184/public_html/wp-content/themes/gideons2019/footer-fp.php",
+		"/C/Users/pw/AppData/Local/Temp/scp24635/public_html/wp-content/themes/gideons2019/footer.php",
+		"/C/Users/pw/AppData/Local/Temp/scp41410/public_html/wp-content/plugins/woocommerce-ecards-pro/core/class.emails.php",
+		"/C/Users/pw/AppData/Local/Temp/scp47889/var/www/html/wp-config.php",
+		"/C/Users/pw/AppData/Local/Temp/scp55682/public_html/wp-content/themes/gideons2019/style.css",
+		"/C/Users/pw/AppData/Local/Temp/scp01569/public_html/wp-content/themes/gideons2019/page-word-n-vriend-en.php",
+		"/C/Users/pw/AppData/Local/Temp/scp01496/public_html/wp-content/themes/gideons2019/page-word-n-vriend.php",
+		"/C/Users/pw/AppData/Local/Temp/scp01617/public_html/wp-content/themes/gideons2019/page-oor-ons.php",
+		"/C/Users/pw/AppData/Local/Temp/scp52899/var/www/html/wp-content/themes/cariera-child/functions.php",
+		"/C/Users/pw/AppData/Local/Temp/scp41821/var/www/html/wp-content/themes/wereld2018/page-profiel-update.php",
+		"/C/Users/pw/AppData/Local/Temp/scp20422/var/www/html/wp-content/themes/hello-elementor/functions.php",
+		"/C/Users/pw/AppData/Local/Temp/scp49726/var/www/html/wp-content/themes/cariera-child/functions.php",
+		"/C/Users/pw/AppData/Local/Temp/scp23536/var/www/html/wp-config.php",
+		"/C/Users/pw/AppData/Local/Temp/scp59408/malantroue.co.za/html/.htaccess",
+		"/C/Users/pw/AppData/Local/Temp/scp35623/public_html/wp-content/themes/gideons2019/functions.php",
+		"/C/Users/pw/AppData/Local/Temp/scp31199/public_html/wp-content/plugins/woocommerce-payfast-gateway/changelog.txt",
+		"/C/Users/pw/AppData/Local/Temp/scp33094/public_html/wp-content/uploads/wc-logs/payfast-2021-02-02-498e48e4ba3d48f3efcdfcfac296d975.log",
+		"/C/Users/pw/AppData/Local/Temp/scp35265/var/www/html/wp-content/themes/cariera-child/functions.php",
+		"/C/Users/pw/AppData/Local/Temp/scp30165/public_html/wp-content/themes/gideons2019/page-kontak-ons.php",
+		"/C/Users/pw/AppData/Local/Temp/scp31911/public_html/wp-content/themes/gideons2019/page-kontak-ons-en.php",
+		"/C/Users/pw/AppData/Local/Temp/scp18118/public_html/wp-content/themes/gideons2019/page-kontak-ons-en.php",
+		"/C/Users/pw/AppData/Local/Temp/scp18101/public_html/wp-content/themes/gideons2019/page-kontak-ons.php",
+		"/C/Users/pw/AppData/Local/Temp/scp02163/public_html/wp-content/themes/gideons2019/footer.php",
+		"/C/Users/pw/AppData/Local/Temp/scp13780/public_html/wp-content/themes/gideons2019/page-kontak-ons-en.php",
+		"/C/Users/pw/AppData/Local/Temp/scp08469/public_html/wp-content/themes/gideons2019/style.css",
+		"/C/Users/pw/AppData/Local/Temp/scp11165/public_html/wp-content/themes/gideons2019/footer-fp.php",
+		"/C/Users/pw/AppData/Local/Temp/scp32985/var/www/html/wp-content/themes/solidariteit-beroepsgilde/page-toets.php",
+		"/C/Users/pw/AppData/Local/Temp/scp51647/public_html/wp-content/themes/gideons2019/front-page.php",
+		"/C/Users/pw/AppData/Local/Temp/scp02168/public_html/wp-content/themes/gideons2019/footer-fp.php",
+		"/C/Users/pw/AppData/Local/Temp/scp04619/public_html/wp-content/themes/gideons2019/page-faqs.php",
+		"/C/Users/pw/AppData/Local/Temp/scp04823/public_html/wp-content/themes/gideons2019/page-faqs-en.php",
+		"/C/Users/pw/AppData/Local/Temp/scp13751/public_html/wp-content/themes/gideons2019/page-kontak-ons.php",
+		"/C/Users/pw/AppData/Local/Temp/scp09596/public_html/wp-content/themes/gideons2019/footer-fp.php",
+		"/C/Users/pw/AppData/Local/Temp/scp09151/public_html/wp-content/themes/gideons2019/footer.php",
+		"/C/Users/pw/AppData/Local/Temp/scp06684/var/www/html/app/Http/Controllers/ProfilesController.php",
+		"/C/Users/pw/AppData/Local/Temp/scp03191/var/www/html/resources/views/layouts/app.blade.php",
+		"/C/Users/pw/AppData/Local/Temp/scp14650/var/www/html/app/Http/Controllers/HomeController.php",
+		"/C/Users/pw/AppData/Local/Temp/scp56182/var/www/html/routes/web.php",
+		"/C/Users/pw/AppData/Local/Temp/scp12185/var/www/html/resources/views/auth/register.blade.php",
+		"/C/Users/pw/AppData/Local/Temp/scp46905/var/www/html/app/User.php",
+		"/C/Users/pw/AppData/Local/Temp/scp08359/var/www/html/resources/views/posts/create.blade.php",
+		"/C/Users/pw/AppData/Local/Temp/scp03352/var/www/html/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/pw/AppData/Local/Temp/scp07018/var/www/html/resources/views/profiles/index.blade.php",
+		"/C/Users/pw/AppData/Local/Temp/scp59787/var/www/html/app/Http/Controllers/PostsController.php",
+		"/C/Users/pw/AppData/Local/Temp/scp47415/var/www/html/app/Post.php",
+		"/C/Users/pw/AppData/Local/Temp/scp41934/var/www/html/database/migrations/2020_11_24_094134_create_posts_table.php",
+		"/C/Users/pw/AppData/Local/Temp/scp42987/var/www/html/resources/views/posts/show.blade.php",
+		"/C/Users/pw/AppData/Local/Temp/scp14602/var/www/html/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/Users/pw/AppData/Local/Temp/scp49500/var/www/html/resources/views/home.blade.php",
+		"/C/Users/pw/AppData/Local/Temp/scp10610/public_html/wp-content/themes/gideons2019/page-word-n-gee-en.php",
+		"/C/Users/pw/AppData/Local/Temp/scp10201/public_html/wp-content/themes/gideons2019/page-word-n-bid-en.php",
+		"/C/Users/pw/AppData/Local/Temp/scp11763/public_html/wp-content/themes/gideons2019/page-word-n-vriend-en.php",
+		"/C/Users/pw/AppData/Local/Temp/scp18121/public_html/wp-content/themes/gideons2019/page-raak-betrokke.php",
+		"/C/Users/pw/AppData/Local/Temp/scp19165/public_html/wp-content/themes/gideons2019/page-faqs.php",
+		"/C/Users/pw/AppData/Local/Temp/scp27801/public_html/wp-content/themes/gideons2019/page-faqs.php",
+		"/C/Users/pw/AppData/Local/Temp/scp39663/public_html/wp-content/themes/gideons2019/style.css",
+		"/C/Users/pw/AppData/Local/Temp/scp30999/public_html/wp-content/themes/gideons2019/page-faqs-en.php",
+		"/C/Users/pw/AppData/Local/Temp/scp05797/public_html/wp-content/themes/gideons2019/page-word-n-gee-en.php",
+		"/C/Users/pw/AppData/Local/Temp/scp39991/public_html/wp-content/themes/gideons2019/page-faqs-en.php",
+		"/C/Users/pw/AppData/Local/Temp/scp33709/public_html/wp-content/themes/gideons2019/front-page.php",
+		"/C/Users/pw/AppData/Local/Temp/scp07342/public_html/wp-content/themes/gideons2019/style.css",
+		"/C/Users/pw/AppData/Local/Temp/scp36405/public_html/wp-content/themes/gideons2019/footer-fp.php",
+		"/C/Users/pw/AppData/Local/Temp/scp31174/var/www/html/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/pw/AppData/Local/Temp/scp37935/var/www/html/app/User.php",
+		"/C/Users/pw/AppData/Local/Temp/scp18349/var/www/html/app/Profile.php",
+		"/C/Users/pw/AppData/Local/Temp/scp18622/var/www/html/database/migrations/2020_11_12_121754_create_profiles_table.php",
+		"/C/Users/pw/AppData/Local/Temp/scp27033/var/www/html/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/Users/pw/AppData/Local/Temp/scp49278/var/www/html/resources/views/layouts/app.blade.php",
+		"/C/Users/pw/AppData/Local/Temp/scp22942/var/www/html/resources/views/auth/register.blade.php",
+		"/C/Users/pw/AppData/Local/Temp/scp56419/var/www/html/app/Http/Controllers/ProfilesController.php",
+		"/C/Users/pw/AppData/Local/Temp/scp53280/var/www/html/app/Http/Controllers/HomeController.php",
+		"/C/Users/pw/AppData/Local/Temp/scp52175/var/www/html/routes/web.php",
+		"/C/Users/pw/AppData/Local/Temp/scp53837/var/www/html/resources/views/home.blade.php",
+		"/C/Users/pw/AppData/Local/Temp/scp03718/var/www/html/resources/sass/app.scss",
+		"/C/Users/pw/AppData/Local/Temp/scp06361/var/www/html/resources/sass/_variables.scss",
+		"/C/Users/pw/AppData/Local/Temp/scp55422/var/www/html/resources/svg/freeCodeGram.svg",
+		"/C/Users/pw/AppData/Local/Temp/scp37640/var/www/html/resources/views/layouts/app.blade.php",
+		"/C/Users/pw/AppData/Local/Temp/scp18010/var/www/html/database/database.sqlite",
+		"/C/Users/pw/AppData/Local/Temp/scp12324/var/www/html/.env",
+		"/C/Users/pw/AppData/Local/Temp/scp08374/var/www/html/resources/views/home.blade.php",
+		"/C/Users/pw/AppData/Local/Temp/scp50665/var/www/html/resources/sass/app.scss",
+		"/C/Users/pw/AppData/Local/Temp/scp23890/var/www/html/resources/sass/_variables.scss",
+		"/C/Users/pw/AppData/Local/Temp/scp29722/var/www/html/resources/views/welcome.blade.php",
+		"/C/Users/pw/AppData/Local/Temp/scp48309/var/www/html/resources/js/app.js",
+		"/C/Users/pw/AppData/Local/Temp/scp42975/public_html/wp-content/themes/gideons2019/style.css",
+		"/C/Users/pw/AppData/Local/Temp/scp23958/public_html/wp-content/themes/gideons2019/footer-fp.php",
+		"/C/Users/pw/AppData/Local/Temp/scp13538/public_html/wp-content/themes/gideons2019/footer-fp.php",
+		"/C/Users/pw/AppData/Local/Temp/scp21697/public_html/wp-content/themes/gideons2019/front-page.php",
+		"/C/Users/pw/AppData/Local/Temp/scp02798/public_html/wp-content/themes/gideons2019/front-page.php",
+		"/C/Users/pw/AppData/Local/Temp/scp57498/var/www/html/public/svg/freeCodeGram.svg",
+		"/C/Users/pw/AppData/Local/Temp/scp49676/var/www/html/public/js/app.js",
+		"/C/Users/pw/AppData/Local/Temp/scp42572/public_html/wp-content/themes/gideons2019/footer-fp.php",
+		"/C/Users/pw/AppData/Local/Temp/scp04320/public_html/wp-content/themes/gideons2019/footer-fp.php",
+		"/C/Users/pw/AppData/Local/Temp/scp42423/public_html/wp-content/themes/gideons2019/front-page.php",
+		"/C/Users/pw/AppData/Local/Temp/scp16623/var/www/html/wp-content/themes/s-leer/page-mysleer.php",
+		"/C/Users/pw/OneDrive - Solidariteit/Desktop/Desktop Archive/AWS/Certified Cloud Practitioner/Udemy/code/ec2-fundamentals/ec2-user-data.sh",
+		"/C/Users/pw/AppData/Local/Temp/scp05791/var/www/html/wp-content/themes/wereld2018/page-OnsSalSelf-dankie.php",
+		"/C/Users/pw/AppData/Local/Temp/scp38572/var/www/html/wp-content/themes/corona-org-za/page-donasie.php",
+		"/C/Users/pw/AppData/Local/Temp/scp50541/var/www/html/wp-content/themes/s-leer/functions.php",
+		"/C/Users/pw/AppData/Local/Temp/scp35775/var/www/html/wp-content/themes/wereld2018/validate-membership.php",
+		"/C/Users/pw/AppData/Local/Temp/scp34212/var/www/html/wp-content/themes/wereld2018/page-profiel-update.php",
+		"/C/Users/pw/AppData/Local/Temp/scp48754/var/www/html/wp-content/themes/s-leer/page-mysleer.php",
+		"/C/Users/pw/AppData/Local/Temp/scp55194/var/www/html/wp-content/themes/wereld2018/page-OnsSalSelf.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"toets",
+			"lees",
+			"list-post",
+			"image",
+			"email",
+			"header",
+			"register",
+			"getCroppedCanvas",
+			"actions",
+			"getCroppedCanvas",
+			"640",
+			"initialAspectRatio",
+			"660",
+			"crop-box",
+			"down",
+			"save",
+			"download",
+			"crop",
+			"save crop",
+			"%;\n",
+			"u",
+			"single sign on",
+			"betrokke",
+			"have",
+			"klein",
+			"crop",
+			"image",
+			"my_adjust_image_sizes",
+			"meer",
+			"single",
+			"\t",
+			"\n\t\t",
+			",",
+			"[\"",
+			"\t",
+			"\n\t\t",
+			"[",
+			",",
+			" Close\n",
+			"primary",
+			"shortcode",
+			">\n",
+			"50px",
+			"media",
+			"shortcode",
+			"short",
+			"sort by lates",
+			"default sorting",
+			"sort",
+			"msgid",
+			"'n ",
+			"msgid",
+			"'n",
+			"'\n\n",
+			"\nmsgstr",
+			"msgstr",
+			"\"",
+			"msgctxt",
+			"(?<=msgctxt).*$",
+			"#",
+			"(?<=#).*$",
+			"dash",
+			"dashboard",
+			"media",
+			"login",
+			"solid",
+			"ssl",
+			"lesshat",
+			"wp",
+			"lidmaa",
+			"akt",
+			"aktief",
+			"aktiewe",
+			"media",
+			"blog-l",
+			"medi",
+			"25",
+			"init",
+			"Domain Parking\n",
+			"haarkapper",
+			"profile",
+			"huwelik",
+			"personal_options_update",
+			"h_kerk",
+			"totaal_gade",
+			"IDNumber",
+			"\nIDNumber",
+			"sel_nr",
+			"id",
+			"login",
+			"tabs",
+			"fomo",
+			"ross",
+			"van der m",
+			"\n",
+			"pienaar",
+			"\n",
+			",\"\",",
+			",'',",
+			"tab",
+			"aktief",
+			"format('opentype')",
+			"SQL_MODE",
+			"mode",
+			"thumb",
+			"company_lo",
+			"sleer-twothird",
+			"extern",
+			"lede",
+			"cookie",
+			"cook",
+			"invoice",
+			"here",
+			"show",
+			"functions",
+			"show",
+			"sho",
+			"hid",
+			"show",
+			"face",
+			"commen",
+			"comm",
+			"come",
+			"com",
+			"jet",
+			"comments",
+			"ID",
+			"player.ID"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			",[\n\t\t\t\"icontains\",\n\t\t\t\"@message\",\n\t\t\t\"",
+			"[\"\n\n",
+			"[\"\n",
+			"",
+			"[\n\t\t",
+			"[\n",
+			"[\n\t\t\t\"icontains\",\n\t\t\t\"@message\",\"",
+			"[\n\t\t\t\"icontains\",\n\t\t\t\"@message\",",
+			"\"\n\t\t],",
+			"40px",
+			"case",
+			"‘n ",
+			"case",
+			"‘n",
+			"';\n            break;\n",
+			"';\n            break;",
+			":\n \n            $translated = ",
+			"'",
+			"",
+			"\nhttps://beweging.co.za/registrasie-kontrole/vip/index.php?naam=",
+			"\",\"",
+			"$toets==",
+			"",
+			"member",
+			"\nmember",
+			"\n\"113",
+			"\n\"11",
+			"\n\"113",
+			"\n\"112",
+			"\n\"11",
+			" ",
+			",",
+			"",
+			",",
+			"bepaler",
+			"font-size: 50px;",
+			"65px"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "solidariteitNetwerk.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
